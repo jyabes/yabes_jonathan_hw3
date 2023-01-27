@@ -59,6 +59,7 @@ alternative test/assignment will be of equal value to the one missed with no gra
 The timeline and due dates will be determined by the course instructor.
 
 At mid-term, any unsatisfactory results will be reported to the student.
+
 This course may be revised by the professor with suitable notification to the students.
 Students are responsible for making arrangements to pick up missed handouts, assignments
 and course announcements from classmates.
