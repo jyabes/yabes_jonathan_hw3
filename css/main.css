@@ -1,0 +1,127 @@
+/*
+
+element {rule @1 } */
+
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+/* <hidden><hidden>
+.hidden
+#hidden */
+
+.hidden { display: none; }
+
+html, body {
+    height: 100%;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(33, 27, 27);
+    color: white;
+}
+
+/* main header rules */
+
+header {
+    background-color: red;
+    text-align:center;
+    position: sticky;
+    top: 0;
+
+
+/* for the logo */
+
+}
+
+#marvel-logo {
+    width: 300px;
+    padding: 10px 0;
+
+}
+
+
+
+
+  
+
+/* main rules here */
+
+#character_nav {
+    text-align:center;
+    background-color:675050;
+
+    background-image: url('../img/characters_art_mas_mob_01.jpeg')
+
+    background-repeat:no-repeat;
+    background-size: cover;
+
+    background-blend-mode: multiply;
+
+}
+
+
+#character_nav { 
+    list-style-type: none;
+}
+
+.character li {
+    position: relative;
+    display: inline-block;
+    height: 220;
+    margin: 20px 8px;
+    
+    background-color: black;
+    text-align: left;
+    cursor: pointer;
+
+}
+
+article {
+    padding: 20px;
+
+
+}
+
+article h3 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 14px;
+    
+}
+
+
+article p {
+    width: 80%;
+    font-size: 18px;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+
+  /* footer rules here */
+
+footer {
+    color: red;
+    padding: 20px 0 20px 0;
+    text-align:center;
+
+}
+
+/* for the footer */
+
+.sticky_footer {
+    position:sticky;
+    top:100px;
+    background-color: rgb(40,37,37);
+    height:60px;
+}
