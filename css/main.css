@@ -54,12 +54,12 @@ header {
 /* main rules here */
 
 #character_nav {
-    text-align:center;
+    text-align: center;
     background-color:675050;
 
     background-image: url('../img/characters_art_mas_mob_01.jpeg')
 
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
 
     background-blend-mode: multiply;
@@ -91,7 +91,7 @@ article {
 
 article h3 {
     font-size: 2em;
-    text-align: center;
+    text-align:center;
     margin-bottom: 14px;
     
 }
